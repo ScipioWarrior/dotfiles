@@ -1,0 +1,14 @@
+/* hide titlebar */
+#header {
+  display: none !important;
+}
+
+/* hide home button */
+.button-toolbar.home {
+  display: none !important;
+}
+
+/* Shrink size of thumbnail previews */
+/*.tab-position {
+  height: 75px !important;
+}*/
